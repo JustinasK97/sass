@@ -1,0 +1,35 @@
+.button, .container section ul li span {
+  border-radius: 10px;
+  padding: 50px;
+  border: 1px solid silver; }
+
+.container {
+  width: 80;
+  background-color: #04dbcd;
+  margin: 0 auto;
+  padding: 10px; }
+  .container section {
+    background-color: #d8def2;
+    color: white; }
+    .container section h2 {
+      text-align: center;
+      padding: 15px;
+      border-radius: 20px;
+      border-style: dotted; }
+    .container section ul li {
+      background-color: #e27feb;
+      padding: 5px;
+      border-top: 1px solid #eee;
+      border-bottom: 1px solid red; }
+      .container section ul li a {
+        color: #000;
+        text-transform: uppercase; }
+        .container section ul li a:hover {
+          color: #4d4d4d; }
+      .container section ul li span {
+        text-align: right;
+        background-color: #eceda6;
+        color: #97d43b;
+        float: right; }
+
+/*# sourceMappingURL=style.css.map */
